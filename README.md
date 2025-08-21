@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RafaelMateoGonzalez
-- 👀 I’m interested in Javascript, HTML and CSS
-- 🌱 I’m currently learning PHP
+- 👋 Hi, I’m @RafaelMateoGonzalez a fullstack developer with expereience in .NET,SQL,JS and PHP
+- 👀 I’m interested in ASP.Net,SQL and JS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me rafamateo250302@gmail.com
 
